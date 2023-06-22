@@ -9,8 +9,8 @@ This repository is an example to use React router
 
 ### Resources Used in This Project
 
-1. React Router official document: `https://reactrouter.com/en/main`
-2. Package: `https://www.npmjs.com/package/react-router-dom`
-3. Api document using in the demo: `https://fakestoreapi.com/docs`
+1. [React Router official document](https://reactrouter.com/en/main)
+2. [Package](https://www.npmjs.com/package/react-router-dom)
+3. [Api document using in the demo](https://fakestoreapi.com/docs)
 
-### Check out other video with React here: `https://www.youtube.com/@integrifyacademy`
+### Check out other video with React here: [Integrify-Academy](https://www.youtube.com/@integrifyacademy)
