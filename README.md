@@ -4,8 +4,8 @@ This repository is an example to use React router
 
 ### Run the project
 
-1. Step 1: yarn
-2. Step 2: yarn start
+1. Step 1: yarn or npm
+2. Step 2: yarn start or npm start
 
 ### Resources Used in This Project
 
